@@ -11,4 +11,4 @@ https://www.linkedin.com/in/rohan-saxena-2846a5163/
 
 # Output:
 
-![output](data\output (2).jpg)
+![output](data/output (2).jpg)
