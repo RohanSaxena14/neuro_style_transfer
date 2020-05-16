@@ -12,4 +12,4 @@ https://www.linkedin.com/in/rohan-saxena-2846a5163/
 
 # Output:
 
-![output](output.jpg)
+![output](result.jpg)
