@@ -1,4 +1,4 @@
-# Neuro_style_transfer
+# neuro_style_transfer
 I have implemented a well known technique in computer vision.
 I am using Vgg16 pretrained model for getting the style information, feel free to play with different parameters for better understanding.
 
@@ -11,4 +11,4 @@ https://www.linkedin.com/in/rohan-saxena-2846a5163/
 
 # Output:
 
-![output](data/output (2).jpg)
+![output](data\output (2).jpg)
