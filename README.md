@@ -1,6 +1,6 @@
 # neuro_style_transfer
-I have implemented a well known technique in computer vision.
-I am using Vgg16 pretrained model for getting the style information, feel free to play with different parameters for better understanding.
+this is am implementation of a well known technique in computer vision.
+I have used Vgg16 pretrained model for getting the style information, feel free to play with different parameters for better understanding.
 
 I recommend to watch this youtube video, as it was really a great help.
 
